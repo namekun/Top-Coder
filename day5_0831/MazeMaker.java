@@ -1,4 +1,4 @@
-package day5_0830;
+package day5_0831;
 
 import java.util.Scanner;
 import java.util.Queue;
