@@ -1,6 +1,6 @@
 package day4_0829;
 
-public class Q8_CrazyBot {
+public class Q8_CrazyBot_DFS {
 
 	boolean[][] grid = new boolean[100][100];
 	
